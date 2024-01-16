@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "e9f3dca8373df5f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b43da6593e3b9aeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00082999a0694c4f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41887052d0a304c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae010d8edeefeb4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d922c7fe8885cadf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b6887a0ee6b6e4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da559e09c4ba8e68",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "right": {
+    "id": "aff48fc8ab1d6344",
+    "type": "split",
+    "children": [
+      {
+        "id": "d31d5e36b14d659b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98fe9c1744c5eeac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0beebf8b87a690af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a81104ffd66da46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "146f8e4c4a6bb773",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "146f8e4c4a6bb773",
+  "lastOpenFiles": [
+    "README.md",
+    "Excalidraw/helper临床试验推荐.excalidraw.md",
+    "Excalidraw/helper定时提醒处理流程.excalidraw.md",
+    "model/技术笔记.md",
+    "未命名.md",
+    "().md",
+    "go语言进阶.md",
+    "go语言学习.md",
+    "Selenium使用.md",
+    "Pasted Image 20240114125324_168.png",
+    "Excalidraw/helper微信调用流程.excalidraw.md",
+    "Excalidraw/image/Pasted Image 20240114125541_607.png",
+    "Excalidraw/image/Pasted Image 20240114125454_618.png",
+    "Excalidraw/image/Pasted Image 20240113151924_049.png",
+    "go语言基础.md",
+    "2023-12-15.md",
+    "gitlab.md",
+    "Excalidraw/image/Pasted image 20231215180457.png",
+    "Excalidraw/image/Pasted image 20231215181808.png",
+    "Excalidraw/image/Pasted image 20231215175921.png",
+    "Excalidraw/image/Pasted Image 20231218164906_039.png",
+    "Excalidraw/image/Pasted Image 20231218165328_207.png",
+    "Excalidraw/Drawing 2023-12-18 17.05.02.excalidraw.md",
+    "Pasted image 20231215180543.png",
+    "Excalidraw/image",
+    "Pasted image 20231215175756.png.md",
+    "Excalidraw/Drawing 2023-12-15 17.24.02.excalidraw.md",
+    "model",
+    "未命名.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "Excalidraw",
+    "go语言进阶"
+  ]
+}
